@@ -1,0 +1,228 @@
+body {
+  margin: auto;
+}
+
+.find-dealer {
+  display: flex;
+  padding: 0 111px;
+  margin-top: 111px;
+}
+
+.find-dealer-left {
+  width: 50%;
+  height: 100%;
+  color: black;
+  display: flex;
+  flex-direction: column;
+}
+
+.find-dealer-left h1 {
+  font-size: 48px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 20px 0;
+}
+
+.find-dealer-left p {
+  color: #9b9b9b;
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 12px;
+}
+
+.find-dealer-left select {
+  width: 100%;
+  height: 56px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  padding: 0 10px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #4c4c4c;
+  margin-bottom: 12px;
+}
+
+.find-dealer-right {
+  width: 50%;
+  height: 100%;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.find-dealer-right p {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 12px;
+  color: black;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 50px;
+  justify-content: space-between;
+  margin: 0 111px;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 117px;
+}
+
+.btnLoadMore {
+  margin-top: 63px;
+  width: 100px;
+  height: 56px;
+  background-color: black;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+  cursor: pointer;
+}
+
+.card-modal {
+  display: flex;
+  flex-direction: row;
+  padding: 6px 13px;
+}
+
+.card-modal .card-right {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-modal h3 {
+  font-size: 24px;
+  font-weight: 800;
+  margin-bottom: 0;
+}
+
+.card-modal p {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 12px;
+  color: #4c4c4c;
+  margin-top: 4px;
+}
+
+.address {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.card-modal .card-left img {
+  width: 31px;
+}
+
+.btnview {
+  color: black;
+  font-weight: 700;
+  font-size: 14px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid black;
+  text-decoration: none;
+}
+
+.showroom,
+.bengkel {
+  display: flex;
+  flex-direction: column;
+}
+
+.showroom label,
+.bengkel label {
+  margin: 0 10px;
+}
+
+.place {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.showroom h4,
+.bengkel h4 {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.showroom p,
+.bengkel p {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.buttons {
+  margin-top: 50px;
+}
+
+.btnTestDrive {
+  width: 100%;
+  height: 56px;
+  background-color: black;
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+  cursor: pointer;
+  padding: 10px 5px;
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.btnBookService {
+  width: 100%;
+  height: 56px;
+  background-color: white;
+  font-size: 16px;
+  font-weight: 500;
+  color: black;
+  cursor: pointer;
+  padding: 10px 5px;
+  text-decoration: none;
+  border: 2px solid rgba(0, 0, 0);
+  text-decoration: none;
+}
+
+.banner-bottom {
+  margin-top: 87px;
+  margin-bottom: 90px;
+  padding: 0 100px;
+  position: relative;
+}
+
+.banner-img {
+  width: 100%;
+  background: linear-gradient(90.63deg, rgba(0, 0, 0, 0.0001) 0.48%, #000000 53.17%);
+  object-position: 50% 50%;
+}
+
+.banner-text {
+  position: absolute;
+  top: 57%;
+  left: 29%;
+  transform: translate(-53%, -52%);
+  color: white;
+  width: 34%;
+}
+
+.banner-text h1 {
+  font-size: 48px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 20px 0;
+}
+
+.banner-text p {
+  color: #fff;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 12px;
+}

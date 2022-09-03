@@ -1,0 +1,208 @@
+{
+  "provinces": [
+    {
+      "id": 11,
+      "name": "Aceh",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 12,
+      "name": "Sumatera Utara",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 13,
+      "name": "Sumatera Barat",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 14,
+      "name": "Riau",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 15,
+      "name": "Jambi",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 16,
+      "name": "Sumatera Selatan",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 17,
+      "name": "Bengkulu",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 18,
+      "name": "Lampung",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 19,
+      "name": "Kepulauan Bangka Belitung",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 21,
+      "name": "Kepulauan Riau",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 31,
+      "name": "Dki Jakarta",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 32,
+      "name": "Jawa Barat",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 33,
+      "name": "Jawa Tengah",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 34,
+      "name": "Di Yogyakarta",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 35,
+      "name": "Jawa Timur",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 36,
+      "name": "Banten",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 51,
+      "name": "Bali",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 52,
+      "name": "Nusa Tenggara Barat",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 53,
+      "name": "Nusa Tenggara Timur",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 61,
+      "name": "Kalimantan Barat",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 62,
+      "name": "Kalimantan Tengah",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 63,
+      "name": "Kalimantan Selatan",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 64,
+      "name": "Kalimantan Timur",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 65,
+      "name": "Kalimantan Utara",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 71,
+      "name": "Sulawesi Utara",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 72,
+      "name": "Sulawesi Tengah",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 73,
+      "name": "Sulawesi Selatan",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 74,
+      "name": "Sulawesi Tenggara",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 75,
+      "name": "Gorontalo",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 76,
+      "name": "Sulawesi Barat",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 81,
+      "name": "Maluku",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 82,
+      "name": "Maluku Utara",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 91,
+      "name": "Papua Barat",
+      "created_at": null,
+      "updated_at": null
+    },
+    {
+      "id": 94,
+      "name": "Papua",
+      "created_at": null,
+      "updated_at": null
+    }
+  ]
+}

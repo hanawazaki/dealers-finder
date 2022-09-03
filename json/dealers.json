@@ -1,0 +1,461 @@
+{
+  "dealers": {
+    "current_page": 1,
+    "data": [
+      {
+        "id": 78,
+        "title": "Srikandi Mampang",
+        "slug": "srikandi-mampang",
+        "company": "PT. Srikandi Diamond Motors",
+        "address": "Jl. Mampang Prapatan No. 21-23, Kota Jakarta Selatan",
+        "phone": "(021) 79188888 / 78, 79190066",
+        "province": "DKI Jakarta",
+        "city": "Jakarta Selatan",
+        "fax": null,
+        "website": null,
+        "latitude": "-6.243485",
+        "longitude": "106.82534",
+        "car_type": "semua_kendaraan",
+        "bengkel_available": true,
+        "bengkel_open_status": true,
+        "bengkel_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "showroom_available": true,
+        "showroom_open_status": true,
+        "showroom_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "distance_km": 1.22,
+        "services": ["sales", "service", "sparepart"],
+        "car_types": ["semua_kendaraan"],
+        "status": "PUBLISHED"
+      },
+      {
+        "id": 17,
+        "title": "Bumen Redja Tebet",
+        "slug": "bumen-redja-tebet",
+        "company": "PT. Bumen Redja Abadi",
+        "address": "Jl. Dr. Saharjo No. 321, Jakarta Selatan, DKI Jakarta",
+        "phone": "(021) 8309256",
+        "province": "DKI Jakarta",
+        "city": "Jakarta Selatan",
+        "fax": null,
+        "website": null,
+        "latitude": "-6.228593",
+        "longitude": "106.847713",
+        "car_type": "kendaraan_penumpang,triton",
+        "bengkel_available": true,
+        "bengkel_open_status": true,
+        "bengkel_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "showroom_available": true,
+        "showroom_open_status": true,
+        "showroom_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "distance_km": 3.53,
+        "services": ["sales", "service", "sparepart", "bodi-cat"],
+        "car_types": ["kendaraan_penumpang", "triton"],
+        "status": "PUBLISHED"
+      },
+      {
+        "id": 67,
+        "title": "Prabu Slipi",
+        "slug": "prabu-slipi",
+        "company": "PT Prabu Mandiri Motor",
+        "address": "Jl. Jend. Gatot Subroto Kav. 50-52, Jakarta Pusat, DKI Jakarta",
+        "phone": "(021) 5709057, 5709068-69, 5709072",
+        "province": "DKI Jakarta",
+        "city": "Jakarta Timur",
+        "fax": null,
+        "website": null,
+        "latitude": "-6.202275",
+        "longitude": "106.800942",
+        "car_type": "semua_kendaraan",
+        "bengkel_available": true,
+        "bengkel_open_status": true,
+        "bengkel_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "showroom_available": true,
+        "showroom_open_status": true,
+        "showroom_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "distance_km": 4.19,
+        "services": ["sales", "service", "sparepart"],
+        "car_types": ["semua_kendaraan"],
+        "status": "PUBLISHED"
+      },
+      {
+        "id": 111,
+        "title": "Ciwangi Ciputat",
+        "slug": "ciwangi-ciputat",
+        "company": "PT. Ciwangi Berlian Motors",
+        "address": "Jl. Raya Ciputat No. 155, Jakarta Selatan, DKI Jakarta",
+        "phone": "(021) 7401448 (Hunting)",
+        "province": "DKI Jakarta",
+        "city": "Jakarta Selatan",
+        "fax": null,
+        "website": null,
+        "latitude": "-6.248842",
+        "longitude": "106.778054",
+        "car_type": "semua_kendaraan",
+        "bengkel_available": true,
+        "bengkel_open_status": true,
+        "bengkel_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "showroom_available": true,
+        "showroom_open_status": true,
+        "showroom_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "distance_km": 4.5,
+        "services": ["sales", "service", "sparepart"],
+        "car_types": ["semua_kendaraan"],
+        "status": "PUBLISHED"
+      },
+      {
+        "id": 112,
+        "title": "Ciwangi Pondok Indah",
+        "slug": "ciwangi-pondok-indah",
+        "company": "PT. Ciwangi Berlian Motors",
+        "address": "Jl. Sultan Iskandar Muda No. 28-29, Jakarta Selatan, DKI Jakarta",
+        "phone": "Hotline service : (021) 7227365, (021) 7225648",
+        "province": "DKI Jakarta",
+        "city": "Jakarta Selatan",
+        "fax": null,
+        "website": null,
+        "latitude": "-6.259684",
+        "longitude": "106.781595",
+        "car_type": "kendaraan_penumpang,triton",
+        "bengkel_available": true,
+        "bengkel_open_status": true,
+        "bengkel_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "showroom_available": true,
+        "showroom_open_status": true,
+        "showroom_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "distance_km": 4.67,
+        "services": ["sales", "service", "sparepart"],
+        "car_types": ["kendaraan_penumpang", "triton"],
+        "status": "PUBLISHED"
+      },
+      {
+        "id": 266,
+        "title": "Mustika Dewi Sartika",
+        "slug": "mustika-dewi-sartika",
+        "company": "PT. Mustika Prima Berlian",
+        "address": "Jl. Dewi Sartika No. 294, Jakarta Timur, DKI Jakarta",
+        "phone": "(021) 80883636",
+        "province": "DKI Jakarta",
+        "city": "Jakarta Timur",
+        "fax": null,
+        "website": null,
+        "latitude": "-6.25243",
+        "longitude": "106.864973",
+        "car_type": "kendaraan_niaga,kendaraan_niaga_ringan",
+        "bengkel_available": true,
+        "bengkel_open_status": true,
+        "bengkel_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "showroom_available": true,
+        "showroom_open_status": true,
+        "showroom_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "distance_km": 5.61,
+        "services": ["sales"],
+        "car_types": ["kendaraan_niaga", "kendaraan_niaga_ringan"],
+        "status": "PUBLISHED"
+      },
+      {
+        "id": 44,
+        "title": "Lautan Berlian Matraman",
+        "slug": "lautan-berlian-matraman",
+        "company": "PT. LAUTAN BERLIAN UTAMA MOTOR",
+        "address": "Jl. Matraman Raya No. 71 - 73, Jakarta Timur, DKI Jakarta",
+        "phone": "(021) 8581642-45",
+        "province": "DKI Jakarta",
+        "city": "Jakarta Timur",
+        "fax": null,
+        "website": null,
+        "latitude": "-6.204191",
+        "longitude": "106.857905",
+        "car_type": "kendaraan_niaga,kendaraan_niaga_ringan",
+        "bengkel_available": true,
+        "bengkel_open_status": true,
+        "bengkel_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "showroom_available": true,
+        "showroom_open_status": true,
+        "showroom_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "distance_km": 5.79,
+        "services": ["sales", "service", "sparepart"],
+        "car_types": ["kendaraan_niaga", "kendaraan_niaga_ringan"],
+        "status": "PUBLISHED"
+      },
+      {
+        "id": 79,
+        "title": "Srikandi Pos Pengumben",
+        "slug": "srikandi-pos-pengumben",
+        "company": "PT. Srikandi Diamond Motors",
+        "address": "Jl. Pos Pengumben Raya No.20, Kebon Jeruk, Kota Jakarta Barat",
+        "phone": "(021) 22530123, 22530303, 22530333",
+        "province": "DKI Jakarta",
+        "city": "Jakarta Barat",
+        "fax": null,
+        "website": null,
+        "latitude": "-6.217634",
+        "longitude": "106.765582",
+        "car_type": "kendaraan_penumpang,triton",
+        "bengkel_available": true,
+        "bengkel_open_status": true,
+        "bengkel_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "showroom_available": true,
+        "showroom_open_status": true,
+        "showroom_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "distance_km": 6.04,
+        "services": ["sales", "service", "sparepart"],
+        "car_types": ["kendaraan_penumpang", "triton"],
+        "status": "PUBLISHED"
+      },
+      {
+        "id": 307,
+        "title": "Mitsubishi Sun Star Prima Motor - Cempaka Putih",
+        "slug": "mitsubishi-sun-star-prima-motor---cempaka-putih",
+        "company": "Mitsubishi Sun Star Prima Motor",
+        "address": "Jl. Letjend Suprapto No.M-78, Cempaka Putih, Jakarta Pusat",
+        "phone": null,
+        "province": "DKI Jakarta",
+        "city": "Jakarta Pusat",
+        "fax": null,
+        "website": null,
+        "latitude": "-6.28807862135264",
+        "longitude": " 106.79517285049629",
+        "car_type": "kendaraan_penumpang,kendaraan_niaga_ringan",
+        "bengkel_available": false,
+        "bengkel_open_status": false,
+        "bengkel_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": false,
+            "hours": null
+          }
+        ],
+        "showroom_available": false,
+        "showroom_open_status": false,
+        "showroom_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": false,
+            "hours": null
+          }
+        ],
+        "distance_km": 6.21,
+        "services": ["sales", "service"],
+        "car_types": ["kendaraan_penumpang", "kendaraan_niaga_ringan"],
+        "status": "PUBLISHED"
+      },
+      {
+        "id": 179,
+        "title": "Bosowa Pare-Pare",
+        "slug": "bosowa-pare-pare",
+        "company": "PT BOSOWA BERLIAN MOTOR",
+        "address": "Jl. Mawar No. 2, Kota Pare - Pare",
+        "phone": "(0421) 21259",
+        "province": "Sulawesi Selatan",
+        "city": "Pare-Pare",
+        "fax": null,
+        "website": null,
+        "latitude": "-6.260636",
+        "longitude": "106.874452",
+        "car_type": "kendaraan_niaga,kendaraan_niaga_ringan",
+        "bengkel_available": true,
+        "bengkel_open_status": true,
+        "bengkel_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "showroom_available": true,
+        "showroom_open_status": true,
+        "showroom_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "distance_km": 6.91,
+        "services": ["sales", "service", "sparepart"],
+        "car_types": ["kendaraan_niaga", "kendaraan_niaga_ringan"],
+        "status": "PUBLISHED"
+      },
+      {
+        "id": 113,
+        "title": "Ciwangi Cideng",
+        "slug": "ciwangi-cideng",
+        "company": "PT. Ciwangi Berlian Motors",
+        "address": "Jl. Cideng Barat No.65, Cideng, Gambir, Jakarta Pusat, DKI Jakarta",
+        "phone": "(021) 3841448",
+        "province": "DKI Jakarta",
+        "city": "Jakarta Pusat",
+        "fax": null,
+        "website": null,
+        "latitude": "-6.174608",
+        "longitude": "106.811337",
+        "car_type": "kendaraan_penumpang,triton",
+        "bengkel_available": true,
+        "bengkel_open_status": true,
+        "bengkel_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "showroom_available": true,
+        "showroom_open_status": true,
+        "showroom_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "distance_km": 6.91,
+        "services": ["sales"],
+        "car_types": ["kendaraan_penumpang", "triton"],
+        "status": "PUBLISHED"
+      },
+      {
+        "id": 53,
+        "title": "Lautan Berlian Kebon Jeruk",
+        "slug": "lautan-berlian-kebon-jeruk",
+        "company": "PT. LAUTAN BERLIAN UTAMA MOTOR",
+        "address": "Jl. Panjang No. 8, Kebon Jeruk, Jakarta Barat, DKI Jakarta",
+        "phone": "(021) 5321478, 5321482/ 84/ 86",
+        "province": "DKI Jakarta",
+        "city": "Jakarta Barat",
+        "fax": null,
+        "website": null,
+        "latitude": "-6.192204",
+        "longitude": "106.76943",
+        "car_type": "semua_kendaraan",
+        "bengkel_available": true,
+        "bengkel_open_status": true,
+        "bengkel_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "showroom_available": true,
+        "showroom_open_status": true,
+        "showroom_operational_hours": [
+          {
+            "days": "Monday - Sunday",
+            "is_open": true,
+            "hours": "8:00 - 16:00"
+          }
+        ],
+        "distance_km": 7.19,
+        "services": ["sales", "service", "sparepart"],
+        "car_types": ["semua_kendaraan"],
+        "status": "PUBLISHED"
+      }
+    ],
+    "first_page_url": "?page=1",
+    "from": 1,
+    "last_page": 26,
+    "last_page_url": "?page=26",
+    "next_page_url": "?page=2",
+    "path": "",
+    "per_page": 12,
+    "prev_page_url": null,
+    "to": 12,
+    "total": 309
+  }
+}
